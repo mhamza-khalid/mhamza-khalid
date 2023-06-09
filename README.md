@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently learning on Full Stack Development.
+- 🔭 I’m currently learning Full Stack Development.
 - 🤔 I am willing to collaborate on projects.
 - 📫 How to reach me: Feel free to mail me at humzah12312@gmail.com
